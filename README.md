@@ -1,5 +1,9 @@
 # Payment-Gateway-Integration
 3rd Task given by THE SPARK FOUNDATION TSF Under #gripaugust21
+
+
+
+
 AIM :
 Create a simple website where payment gateway is integrated.
 
@@ -17,4 +21,5 @@ invoice will contain the amount.
 ◇ Create your own temporary / sandbox / testing accounts with 3rd
 party for integrations.
 
-LANGUAGE USE:HTML,CSS
+
+LANGUAGE USE: HTML,CSS
