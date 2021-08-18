@@ -59,7 +59,7 @@ header {
 	color: rgb(248, 51, 2);
 }
 .excel{
-    height: 80vh;
+    height: 50vh;
     width: 100vw;
     overflow: scroll;
     overflow-x: hidden;
